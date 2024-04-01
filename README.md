@@ -14,12 +14,12 @@ Make sure you have the following installed on your machine:
   
 ## Getting Started
   1. git clone https://github.com/Sreelekshmi266/movies-api.git
-  2. cd food-delivery-system
+  2. cd cinema-program-api
   3. docker-compose build
 
 ## Usage
 - docker-compose up
-- Visit http://localhost/doc/ in your web browser to access the DRF swagger file.
+- Visit http://localhost/api/ in your web browser to create and list movies.
 
 To stop the containers: docker-compose down
 
